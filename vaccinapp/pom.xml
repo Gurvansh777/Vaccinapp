@@ -12,7 +12,7 @@
 	<properties>
 		<spring.version>5.2.4.RELEASE</spring.version>
 		<hsqldb.version>2.3.2</hsqldb.version>
-		<dbh2.version>1.4.200</dbh2.version>
+		<dbh2.version>2.0.206</dbh2.version>
 		<jstl.version>1.2.1</jstl.version>
 		<taglibs.version>1.1.2</taglibs.version>
 		<servlet.version>3.1.0</servlet.version>
